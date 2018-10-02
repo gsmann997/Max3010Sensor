@@ -4,11 +4,11 @@ This file contains data for a project involving the Max3010x sensor
 ### Week 4
 ## Proof of purchase
 **Raspberry Pi**
-![alt text](https://raw.githubusercontent.com/gsmann997/Max3010Sensor/master/Invoices/Pi_invoice.jpg)
+![pi_invoice](https://user-images.githubusercontent.com/43187603/46379847-2ab4e300-c66e-11e8-9630-c017ef43b559.jpg)
 **Wires**<br>
-![alt text](https://raw.githubusercontent.com/gsmann997/Max3010Sensor/master/Invoices/Wires_receipt.jpg)
+[wires reciept.pdf](https://github.com/gsmann997/Max3010Sensor/files/2439886/wires.reciept.pdf)
 **MAX3010x Pulse & Oximetry sensor (0x57)**
-![alt text](https://raw.githubusercontent.com/gsmann997/Max3010Sensor/master/Invoices/heart_beat.png)
+![heart_beat](https://user-images.githubusercontent.com/43187603/46379917-65b71680-c66e-11e8-970e-56de38003e65.png)
 
 
 
