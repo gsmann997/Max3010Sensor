@@ -1,7 +1,7 @@
 #### Max3010Sensor
 This file contains data for a project involving the Max3010x sensor
 ### Week 7
-Below in the picture is shown the soldering that has been done
+This week we did the soldering.
 ![img_20181022_105531](https://user-images.githubusercontent.com/43187603/47303578-49195900-d5f2-11e8-87ba-8dbeb3edad9a.jpg)<br>
 ### Week 4
 ## Proof of purchase
