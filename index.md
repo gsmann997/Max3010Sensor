@@ -3,7 +3,8 @@ This file contains data for a project involving the Max3010x sensor
 ### Week 7
 This week we did the soldering.
 ![img_20181022_105531](https://user-images.githubusercontent.com/43187603/47303578-49195900-d5f2-11e8-87ba-8dbeb3edad9a.jpg)<br>
-Thus 
+Pseudo-code was also written to get an idea of what code we will have to write for the power up
+![pseudo-code](https://user-images.githubusercontent.com/43187603/47397204-32f7bf80-d6fc-11e8-9fbd-ab3781bbbd41.PNG)
 ### Week 5
 ## Proof of purchase
 **Raspberry Pi**
