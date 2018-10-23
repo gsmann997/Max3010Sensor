@@ -14,6 +14,7 @@ This week we did the soldering.
 ## Schedule
 ![budjet_image](https://user-images.githubusercontent.com/43187603/47396269-05107c00-d6f8-11e8-91c7-b8277e08926f.PNG)
 ### Week 3
-[scheue.pdf](https://github.com/gsmann997/Max3010Sensor/files/2508393/scheue.pdf)
+![schedule_image](https://user-images.githubusercontent.com/43187603/47396526-21f97f00-d6f9-11e8-841b-e48650a2054c.PNG)
+[scheue.pdf](https://github.com/gsmann997/Max3010Sensor/files/2508393/scheue.pdf) Download me
 
 
