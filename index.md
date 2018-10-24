@@ -6,6 +6,9 @@ Moreover, we had to check if everything is on track or not.
 After meeting with my team member and checking the work done so far, I can say me and my team member are going as planned and we are meeting the goal set. Unfortunately I received my sensor late which left me behind with the soldering. However, I had already watched tutorial and practiced in class. 
 So thanks to Vlad and Kelly I was able to catch up quickly.
 ![breadboard_milestone](https://user-images.githubusercontent.com/43187603/47397450-5111ef80-d6fd-11e8-8374-09f96998d36e.jpg)
+Before doing the breadboarding I prepared a fritzing diagram
+![drawing](https://user-images.githubusercontent.com/43187603/47398817-dac4bb80-d703-11e8-8afc-d6c36e0f06ec.png)
+![drawing_scheme](https://user-images.githubusercontent.com/43187603/47398829-e57f5080-d703-11e8-8635-d47ca832b91e.png)
 ### Week 7
 This week we did the soldering.
 ![img_20181022_105531](https://user-images.githubusercontent.com/43187603/47303578-49195900-d5f2-11e8-87ba-8dbeb3edad9a.jpg)<br>
