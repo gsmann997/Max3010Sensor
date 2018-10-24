@@ -3,7 +3,7 @@ This file contains data for a project involving the Max3010x sensor
 ## Week 8
 Breadboard milestone was due in this week (see picture below). <br>
 Moreover, we had to check if everything is on track or not.
-After meeting with my team member and checking the work done so far, I can say me and my team member are going as planned and we are meeting the goal set. Unfortunately I was late to receive my sensor and I did the soldering late. However, I had already watched tutorial and practiced in class. 
+After meeting with my team member and checking the work done so far, I can say me and my team member are going as planned and we are meeting the goal set. Unfortunately I received my sensor late which left me behind with the soldering. However, I had already watched tutorial and practiced in class. 
 So thanks to Vlad and Kelly I was able to catch up quickly.
 ![breadboard_milestone](https://user-images.githubusercontent.com/43187603/47397450-5111ef80-d6fd-11e8-8374-09f96998d36e.jpg)
 ### Week 7
