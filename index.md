@@ -11,7 +11,7 @@
 This file contains data for a project involving the Max3010x sensor
 ## Week 9
 PCB designed and submitted Geber of the designed PCB to the prototype lab for printing.
-During the design of the PCB I spent a lot of time while trying to find a compatible connector/sensor that will have the same pins as the one I am using. However I was not sure about the distance between pins so with more research I was acutally able to find the fritzing part online. 
+During the design of the PCB I spent a lot of time while trying to find a compatible connector/sensor that will have the same pins as the one I am using. However I was not sure about the distance between pins so with more research I was acutally able to find the fritzing part online. <br><br>
 ![pcb](https://user-images.githubusercontent.com/43187603/47763723-365cef00-dc98-11e8-8152-0d059c520169.png)
 # Progress Report:
 So far everything is going as planned, even though I spent more time than what was necessary on the designing of the PCB, and I am behind schedule on the software part of the project (get readings from the sensor).
