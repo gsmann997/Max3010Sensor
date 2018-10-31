@@ -15,9 +15,9 @@ PCB designed and submitted Geber of the designed PCB to the prototype lab for pr
 During the design of the PCB I spent a lot of time while trying to find a compatible connector/sensor that will have the same pins as the one I am using. However I was not sure about the distance between pins so with more research I was actually able to find my sensors fritzing part online. <br><br>
 ![pcb](https://user-images.githubusercontent.com/43187603/47763723-365cef00-dc98-11e8-8152-0d059c520169.png)
 # Progress Report:
-So far everything is going as planned, even though I spent more time than what was necessary on the designing of the PCB, and I am behind schedule on the software part of the project (get readings from the sensor).
-This week I am going to try to catch on the schedule and go to the prototype lab to ask for help on the software part.
-My budget may see some extra cost due the fact that I may use two stackable headers one of 6 pin and one of 5 pin to be able to get more modularity and versatility on my project, so even if my PCB will not work I will be able to design and use another one faster.
+So far everything is going as planned, even though I spent more time than what was necessary on the designing of the PCB, and I am behind schedule on the software part of the project (get readings from the sensor).<br>
+This week I am going to try to catch on the schedule and go to the prototype lab to ask for help on the software part.<br>
+My budget may see some changment with some extra cost due the fact that I am going to use two stackable headers: one of 6 pin and one of 5 pin to be able to get more modularity and versatility on my project, so even if my PCB will not work I will be able to design and use another one faster.
 For this extra cost I have to see Vlad and Kelly from the prototype lab as they might have extra headers in the lab.
 ## Week 8
 Breadboard milestone was due in this week (see picture below). <br>
