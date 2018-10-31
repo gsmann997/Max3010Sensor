@@ -1,5 +1,5 @@
 # Table of content
-1. Week 2 [Week 2]
+1. [Week 2](#Week 2)
 2. Week 3 [Week 3]
 3. Week 4 [Week 4]
 4. Week 5 [Week 5]
