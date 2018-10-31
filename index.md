@@ -1,10 +1,29 @@
+# Table of content
+1. Week 2 (#Week-2)
+2. Week 3 (#Week-3)
+3. Week 4 (#Week-4)
+4. Week 5 (#Week-5)
+5. Week 7 (#Week-5)
+6. Week 8 (#Week-5)
+
+
 #### Max3010Sensor
 This file contains data for a project involving the Max3010x sensor
+## Week 9
+PCB designed and submitted Geber of the designed PCB to the prototype lab for printing.
+During the design of the PCB I spent a lot of time while trying to find a compatible connector/sensor that will have the same pins as the one I am using. However I was not sure about the distance between pins so with more research I was acutally able to find the fritzing part online. 
+![pcb](https://user-images.githubusercontent.com/43187603/47763723-365cef00-dc98-11e8-8152-0d059c520169.png)
+# Progress Report:
+So far everything is going as planned, even though I spent more time than what was necessary on the designing of the PCB, and I am behind schedule on the software part of the project (get readings from the sensor).
+This week I am going to try to catch on the schedule and go to the prototype lab to ask for help on the software part.
+My budget may see some extra cost due the fact that I may use two stackable headers one of 6 pin and one of 5 pin to be able to get more modularity and versatility on my project, so even if my PCB will not work I will be able to design and use another one faster.
+For this extra cost I have to see Vlad and Kelly from the prototype lab as they might have extra headers in the lab.
 ## Week 8
 Breadboard milestone was due in this week (see picture below). <br>
 Moreover, we had to check if everything is on track or not.
 After meeting with my team member and checking the work done so far, I can say me and my team member are going as planned and we are meeting the goal set. Unfortunately I received my sensor late which left me behind with the soldering. However, I had already watched tutorial and practiced in class. 
 So thanks to Vlad and Kelly I was able to catch up quickly.
+So far no extra cost was required.
 ![breadboard_milestone](https://user-images.githubusercontent.com/43187603/47397450-5111ef80-d6fd-11e8-8374-09f96998d36e.jpg)
 Before doing the breadboarding I prepared a fritzing diagram (my sensor was not available in fritzing so I used another sensor with the same Pin):<br>
 ![drawing](https://user-images.githubusercontent.com/43187603/47398817-dac4bb80-d703-11e8-8afc-d6c36e0f06ec.png)<br>
