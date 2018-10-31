@@ -1,10 +1,10 @@
 # Table of content
-1. Week 2 (#Week-2)
-2. Week 3 (#Week-3)
-3. Week 4 (#Week-4)
-4. Week 5 (#Week-5)
-5. Week 7 (#Week-5)
-6. Week 8 (#Week-5)
+1. Week 2 [Week 2]
+2. Week 3 [Week 3]
+3. Week 4 [Week 4]
+4. Week 5 [Week 5]
+5. Week 7 [Week 7]
+6. Week 8 [Week 8]
 
 
 #### Max3010Sensor
