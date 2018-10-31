@@ -5,6 +5,7 @@
 4. [Week 5](#Week-5)
 5. [Week 7](#Week-7)
 6. [Week 8](#Week-8)
+6. [Week 9](#Week-9)
 
 
 #### Max3010Sensor
