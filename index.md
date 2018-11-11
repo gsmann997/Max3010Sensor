@@ -14,6 +14,8 @@ This file contains data for a project involving the Max3010x sensor
 ## Week 10
 This week was due the PCB soldering. As advised by our teacher I moved to create a modular PCB using header. So as mentioned in the previous week I reached out Kelly from the prototype lab for the headers and he provided me the headers. However, they did not have the 6x2 and 5x1 pin header so they gave me a bigger one and I cut those to fit my requirements. My [budget](https://github.com/gsmann997/Max3010Sensor/documents/budget.xlsx)  did not see major changes thanks to the help of the prototype lab.
 So the final result is:
+![pcb](https://user-images.githubusercontent.com/43187603/48309051-10103c80-e53f-11e8-970f-8a85809c0ed6.png)
+![img_20181110_225249](https://user-images.githubusercontent.com/43187603/48309056-2b7b4780-e53f-11e8-8cd6-242fd055d41b.jpg)
 
 Then I tested the PCB using the i2c detect command as we did with the breadbording milestone.
 ![proofofpcb](https://user-images.githubusercontent.com/43187603/48308589-9d9b5e80-e536-11e8-8047-f5b777083972.PNG)
