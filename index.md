@@ -5,12 +5,20 @@
 4. [Week 5](#Week-5)
 5. [Week 7](#Week-7)
 6. [Week 8](#Week-8)
-6. [Week 9](#Week-9)
+7. [Week 9](#Week-9)
+8. [Week 10](#Week-10)
 
 
 #### Max3010Sensor
 This file contains data for a project involving the Max3010x sensor
-## Week 9
+## Week 10
+This week was due the PCB soldering. As advised by our teacher I moved to create a modular PCB using header. So as mentioned in the previous week I reached out Kelly from the prototype lab for the headers and he provided me the headers. However, they did not have the 6x2 and 5x1 pin header so they gave me a bigger one and I cut those to fit my requirements. My [budget] https://github.com/gsmann997/Max3010Sensor/documents/budget.xlsx did not see major changes thanks to the help of the prototype lab.
+So the final result is:
+
+Then I tested the PCB using the i2c detect command as we did with the breadbording milestone.
+![proofofpcb](https://user-images.githubusercontent.com/43187603/48308589-9d9b5e80-e536-11e8-8047-f5b777083972.PNG)
+Next week is the power up milestone for which we have to push or pull data to the sensor. For this milestone I am actually behind one week on based on my [schedule]: https://github.com/gsmann997/Max3010Sensor/blob/master/documents/schedule.pdf as a partial solution of this I am going to condensate all the hour I planned to put for this part of the project in one week and be ready for next week milestion. Even though I was able to ask the teacher a question I was concerned about the implementation of the software. In fact there are no library available for the integration of the MAX30105 with the raspberry pi, so the professor advised me to implement the code for the sensor starting from being able to pull the raw data from the sensor.
+ ## Week 9
 PCB designed and submitted Geber of the designed PCB to the prototype lab for printing.
 During the design of the PCB I spent a lot of time while trying to find a compatible connector/sensor that will have the same pins as the one I am using. However I was not sure about the distance between pins so with more research I was actually able to find my sensors fritzing part online. <br><br>
 ![pcb](https://user-images.githubusercontent.com/43187603/47763723-365cef00-dc98-11e8-8152-0d059c520169.png)
