@@ -11,6 +11,20 @@
 
 #### Max3010Sensor
 This file contains data for a project involving the Max3010x sensor
+## Week 11
+This week was due the power up milestone.
+Unfortunately, as explained in last week posting I was already running late on my [schedule]( https://github.com/gsmann997/Max3010Sensor/blob/master/documents/schedule.pdf) and I have not been able to meet the deadline.
+I tried to look up libraries for the integration of my sensor and the Pi but I could not find anything.
+The next step I took was looking up code online to get an idea the type of code I need to write for from the sensor.
+However, not being familiar with this type of task made the whole process slower and time consuming.
+So after I wrote my code, I tested and unfortunatly It was not working. 
+Then I tried to change aproch and read the arduino libraries to get an idea of what I need but It has not been helpful.
+In class I consulted the teacher and he advised me to take a smaller step and try to turn on the read led on the sensor and look up all the register on the [datasheet](https://cdn.sparkfun.com/assets/learn_tutorials/5/7/7/MAX30105_3.pdf) of the sensor.
+Moreover, I wrote some testing code but the reading on the screen was 0 and was not changing which meant It was not working.
+After, I asked the teacher what I could do to fic the problem.
+He advised me to test the code and learn how to do it using another sensors: PCF8591.
+Now, my next goals are going to be: learn how to push/ pull data from/to the PCF8591, write the code for the max30105 to get the readings within next week.
+Regarding the [budget](https://github.com/gsmann997/Max3010Sensor/documents/budget.xlsx) no extra expenses where made.
 ## Week 10
 This week was due the PCB soldering. As advised by our teacher, I soldered headers to my PCB instead of soldering my sensor and the PI directly to the PCB, as if the PCB would not have worked I could have replaced the PCB instead of unsoldering everything.
 Regarding the headers, in my last week posting I mentioned that I would be reaching out Kelly from the prototype lab for the headers. However, even though he provided me the headers for free, he did not have the 6x2 and 5x1 pin headers so he gave me bigger ones. 
