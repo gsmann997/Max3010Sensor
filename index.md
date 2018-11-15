@@ -17,7 +17,7 @@ Unfortunately, as explained in last week posting I was already running late on m
 I tried to look up libraries for the integration of my sensor and the Pi but I was not able find anything.
 The next step I took was looking up code online to get an idea of the type of code I need to write for my sensor.
 However, not being familiar with this type of task made the whole process slower and time consuming.
-So after I wrote my code, I tested and unfortunatly It was not working. 
+So after I wrote my code, I tested it and unfortunatly It was not working. 
 Then I tried to change aproch and read the arduino libraries to get an idea of what I need but It has not been helpful.
 In class I consulted the teacher and he advised me to take a smaller step and try to turn on the read led on the sensor and look up all the register on the [datasheet](https://cdn.sparkfun.com/assets/learn_tutorials/5/7/7/MAX30105_3.pdf) of the sensor.
 Moreover, I wrote some testing code but the reading on the screen was 0 and was not changing which meant It was not working.
