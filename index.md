@@ -12,14 +12,21 @@
 #### Max3010Sensor
 This file contains data for a project involving the Max3010x sensor
 ## Week 10
-This week was due the PCB soldering. As advised by our teacher I moved to create a modular PCB using header. So as mentioned in the previous week I reached out Kelly from the prototype lab for the headers and he provided me the headers. However, they did not have the 6x2 and 5x1 pin header so they gave me a bigger one and I cut those to fit my requirements. My [budget](https://github.com/gsmann997/Max3010Sensor/documents/budget.xlsx)  did not see major changes thanks to the help of the prototype lab.
-So the final result is:
+This week was due the PCB soldering. As advised by our teacher, I soldered headers to my PCB instead of soldering my sensor and the PI directly to the PCB, as if the PCB would not have worked I could have replaced the PCB instead of unsoldering everything.
+Regarding the headers, in my last week posting I mentioned that I would be reaching out Kelly from the prototype lab for the headers. However, even though he provided me the headers for free, he did not have the 6x2 and 5x1 pin headers so he gave me bigger ones. 
+Fortunately, I was able cut both the headers to fit my requirements.
+My [budget](https://github.com/gsmann997/Max3010Sensor/documents/budget.xlsx)  did not see major changes thanks to the help of the prototype lab.
+So my final result is:
 ![pcb](https://user-images.githubusercontent.com/43187603/48309051-10103c80-e53f-11e8-970f-8a85809c0ed6.png)
 ![pi pcb](https://user-images.githubusercontent.com/43187603/48309070-69786b80-e53f-11e8-90d2-b840e2975a57.jpg)
 
-Then I tested the PCB using the i2c detect command as we did with the breadbording milestone.
+The next step after the soldering is testing. 
+I tested the PCB using the i2c detect command and everything worked.
 ![proofofpcb](https://user-images.githubusercontent.com/43187603/48308589-9d9b5e80-e536-11e8-8047-f5b777083972.PNG)
-<br><br>Next week is the power up milestone for which we have to push or pull data to the sensor. For this milestone I am actually behind one week on based on my [schedule]( https://github.com/gsmann997/Max3010Sensor/blob/master/documents/schedule.pdf) as a partial solution of this I am going to condensate all the hour I planned to put for this part of the project in one week and be ready for next week milestion. Even though I was able to ask the teacher a question I was concerned about the implementation of the software. In fact there are no library available for the integration of the MAX30105 with the raspberry pi, so the professor advised me to implement the code for the sensor starting from being able to pull the raw data from the sensor.
+<br><br>Next week is the power up milestone for which we have to push or pull data from/to the sensor.
+For this milestone I am actually one week behind [schedule]( https://github.com/gsmann997/Max3010Sensor/blob/master/documents/schedule.pdf) so as a partial solution of this I am going to try to get it done in one week and be ready for next week milestone. 
+Moreover, I was able to ask the teacher a question regarding the implementation of the software intended to read/write from the sensor. Furthermore, there are no library available for the integration of the MAX30105 with the raspberry pi, so the professor advised me to implement the code for the sensor.
+In conclusion the next step is being able to pull the raw data from the sensor.<br><br>
  ## Week 9
 PCB designed and submitted Geber of the designed PCB to the prototype lab for printing.
 During the design of the PCB I spent a lot of time while trying to find a compatible connector/sensor that will have the same pins as the one I am using. However I was not sure about the distance between pins so with more research I was actually able to find my sensors fritzing part online. <br><br>
