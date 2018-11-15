@@ -25,7 +25,7 @@ I tested the PCB using the i2c detect command and everything worked.
 ![proofofpcb](https://user-images.githubusercontent.com/43187603/48308589-9d9b5e80-e536-11e8-8047-f5b777083972.PNG)
 <br><br>Next week is the power up milestone for which we have to push or pull data from/to the sensor.
 For this milestone I am actually one week behind [schedule]( https://github.com/gsmann997/Max3010Sensor/blob/master/documents/schedule.pdf) so as a partial solution of this I am going to try to get it done in one week and be ready for next week milestone. 
-Moreover, I was able to ask the teacher a question regarding the implementation of the software intended to read/write from the sensor. Furthermore, there are no library available for the integration of the MAX30105 with the raspberry pi, so the professor advised me to implement the code for the sensor.
+Moreover, I was able to ask the teacher a question regarding the implementation of the software intended to read/write from the sensor, as there are no library available for the integration of the MAX30105 with the raspberry pi; so the professor advised me to implement the code for the sensor.
 In conclusion the next step is being able to pull the raw data from the sensor.<br><br>
  ## Week 9
 PCB designed and submitted Geber of the designed PCB to the prototype lab for printing.
