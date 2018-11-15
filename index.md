@@ -14,8 +14,8 @@ This file contains data for a project involving the Max3010x sensor
 ## Week 11
 This week was due the power up milestone.
 Unfortunately, as explained in last week posting I was already running late on my [schedule]( https://github.com/gsmann997/Max3010Sensor/blob/master/documents/schedule.pdf) and I have not been able to meet the deadline.
-I tried to look up libraries for the integration of my sensor and the Pi but I could not find anything.
-The next step I took was looking up code online to get an idea the type of code I need to write for from the sensor.
+I tried to look up libraries for the integration of my sensor and the Pi but I was not able find anything.
+The next step I took was looking up code online to get an idea of the type of code I need to write for my sensor.
 However, not being familiar with this type of task made the whole process slower and time consuming.
 So after I wrote my code, I tested and unfortunatly It was not working. 
 Then I tried to change aproch and read the arduino libraries to get an idea of what I need but It has not been helpful.
