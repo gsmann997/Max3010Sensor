@@ -25,6 +25,22 @@ After, I asked the teacher what I could do to fix the problem.
 He advised me to test the code on another sensor: PCF8591.
 Now, my next goals are going to be: learn how to push/ pull data from/to the PCF8591, write the code for the max30105 to get the readings within next week.
 Regarding the [budget](https://github.com/gsmann997/Max3010Sensor/documents/budget.xlsx) no extra expenses where made.
+
+# Update: 
+After consulting Vlad from the prototype lab I decided to keep working on my sensor before trying to use the PCF8591, and after a couple more hours of research I find out that the previous version of my sensor (MAX30102) and the one I am using (MAX30105) are compatible.
+The only difference between the two version is the fact that the older one does not have the green LED. However, the heart beat reading are calculated from the RED and IR LED.
+After a couple more hours I was able to find a compatible library for my sensor on github([click here to retrive the code](https://github.com/vrano714/max30102-tutorial-raspberrypi)). Therefore, I installed and run the code.
+Conclusion: I have been able to pull data from my sensor, but I still have to make the code I got mine.
+Next Goal: - Send the case to the prototype lab
+           - Get ready for next week enclosure
+Below are the pictures of the code I run:
+![redlog](https://user-images.githubusercontent.com/43187603/48627087-a69a8e80-e981-11e8-976d-4c740fb5f91f.PNG)
+This are the readings I get from the RED LED
+![irlog](https://user-images.githubusercontent.com/43187603/48627131-c5992080-e981-11e8-99fc-5ba13a14e6b1.PNG)
+This are the readings I get from the IR LED
+![graph](https://user-images.githubusercontent.com/43187603/48627147-d3e73c80-e981-11e8-8208-7e5ba613ae08.PNG)
+Inclueded in the files I got online, there was the file to graph the two readings from the sensor.
+
 ## Week 10
 This week was due the PCB soldering. As advised by our teacher, I soldered headers to my PCB instead of soldering my sensor and the PI directly to the PCB, as if the PCB would not have worked I could have replaced the PCB instead of unsoldering everything.
 Regarding the headers, in my last week posting I mentioned that I would be reaching out Kelly from the prototype lab for the headers. However, even though he provided me the headers for free, he did not have the 6x2 and 5x1 pin headers so he gave me bigger ones. 
