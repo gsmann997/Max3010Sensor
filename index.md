@@ -33,13 +33,13 @@ After a couple more hours I was able to find a compatible library for my sensor 
 Conclusion: I have been able to pull data from my sensor, but I still have to make the code I got mine.
 Next Goal: - Send the case to the prototype lab
            - Get ready for next week enclosure
-Below are the pictures of the code I run:
+Below are the pictures of the code I run:<br><br>
 ![redlog](https://user-images.githubusercontent.com/43187603/48627087-a69a8e80-e981-11e8-976d-4c740fb5f91f.PNG)
-This are the readings I get from the RED LED
+<br><br>This are the readings I get from the RED LED<br><br>
 ![irlog](https://user-images.githubusercontent.com/43187603/48627131-c5992080-e981-11e8-99fc-5ba13a14e6b1.PNG)
-This are the readings I get from the IR LED
+<br><br>This are the readings I get from the IR LED<br><br>
 ![graph](https://user-images.githubusercontent.com/43187603/48627147-d3e73c80-e981-11e8-8208-7e5ba613ae08.PNG)
-Inclueded in the files I got online, there was the file to graph the two readings from the sensor.
+<br><br>Inclueded in the files I got online, there was the file to graph the two readings from the sensor.<br><br>
 
 ## Week 10
 This week was due the PCB soldering. As advised by our teacher, I soldered headers to my PCB instead of soldering my sensor and the PI directly to the PCB, as if the PCB would not have worked I could have replaced the PCB instead of unsoldering everything.
