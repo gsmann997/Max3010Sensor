@@ -39,7 +39,7 @@ Below are the pictures of the code I run:<br><br>
 ![irlog](https://user-images.githubusercontent.com/43187603/48627131-c5992080-e981-11e8-99fc-5ba13a14e6b1.PNG)
 <br><br>This are the readings I get from the IR LED<br><br>
 ![graph](https://user-images.githubusercontent.com/43187603/48627147-d3e73c80-e981-11e8-8208-7e5ba613ae08.PNG)
-<br><br>Incleded in the files I got online, there was also a file to graph the two readings from the sensor.<br><br>
+<br><br>Included in the files I got online, there was also a file to graph the two readings from the sensor.<br><br>
 
 ## Week 10
 This week was due the PCB soldering. As advised by our teacher, I soldered headers to my PCB instead of soldering my sensor and the PI directly to the PCB, as if the PCB would not have worked I could have replaced the PCB instead of unsoldering everything.
