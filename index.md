@@ -31,9 +31,9 @@ After consulting Vlad from the prototype lab I decided to keep working on my sen
 The only difference between the two version is the fact that the older one does not have the green LED. However, the heart beat reading are calculated from the RED and IR LED.
 After a couple more hours I was able to find a compatible library for my sensor on github([click here to retrive the code](https://github.com/vrano714/max30102-tutorial-raspberrypi)). Therefore, I installed and run the code.
 Conclusion: I have been able to pull data from my sensor, but I still have to make the code I got mine.
-Next Goal: - Send the case to the prototype lab
-           - Get ready for next week enclosure
-Below are the pictures of the code I run:<br><br>
+Next Goal: <br>- Send the case to the prototype lab
+           <br>- Get ready for next week enclosure
+<br>Below are the pictures of the code I run:<br><br>
 ![redlog](https://user-images.githubusercontent.com/43187603/48627087-a69a8e80-e981-11e8-976d-4c740fb5f91f.PNG)
 <br><br>This are the readings I get from the RED LED<br><br>
 ![irlog](https://user-images.githubusercontent.com/43187603/48627131-c5992080-e981-11e8-99fc-5ba13a14e6b1.PNG)
