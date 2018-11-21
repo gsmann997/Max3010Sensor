@@ -29,7 +29,7 @@ Regarding the [budget](https://github.com/gsmann997/Max3010Sensor/documents/budg
 # Update: 
 After consulting Vlad from the prototype lab I decided to keep working on my sensor before trying to use the PCF8591, and after a couple more hours of research I find out that the previous version of my sensor (MAX30102) and the one I am using (MAX30105) are compatible.
 The only difference between the two version is the fact that the older one does not have the green LED. However, the heart beat reading are calculated from the RED and IR LED.
-After a couple more hours I was able to find a compatible library for my sensor on github([click here to retrive the code](https://github.com/vrano714/max30102-tutorial-raspberrypi)). Therefore, I installed and run the code.
+After a couple more hours I was able to find a compatible library for my sensor on github([click here to retrive the code](https://github.com/vrano714/max30102-tutorial-raspberrypi) or [click here for the source code on my github](https://github.com/gsmann997/Max3010Sensor/tree/master/files)). Therefore, I installed and run the code.
 Conclusion: I have been able to pull data from my sensor, but I still have to make the code I got mine.<br>
 Next Goal: <br>   - Send the case to the prototype lab
            <br>   - Get ready for next week enclosure
