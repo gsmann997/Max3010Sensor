@@ -19,7 +19,7 @@ Unfortunately while I was putting it together I broke the plastic pins that are 
 Then again, while I was assembling the new case I accidentaly broke it again. So the next day, I noticed that I was breaking one because of designing issues. After fixing the CorelDraw file, finally I put everything together.
 Picture of my CorelDraw:
 ![crd](https://user-images.githubusercontent.com/43187603/48814425-a8a97800-ed08-11e8-9e55-cb4080d570bd.PNG)
-Final Design:
+<br><br>Final Design:
 ![img-20181120-wa0004](https://user-images.githubusercontent.com/43187603/48815301-07242580-ed0c-11e8-836c-ad78ff526679.jpg)
 
 
