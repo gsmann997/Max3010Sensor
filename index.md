@@ -13,7 +13,7 @@
 This file contains data for a project involving the Max3010x sensor
 ## Week 12
 This week was due the enclosure.
-For this week we had to design and prepare a case to secure our PI and sensor. To design my case I used [CorelDRAW Graphics Suite](https://www.coreldraw.com/en/?link=wm). After watching some tutorial on how to use the software I was able to modify the sample CorelDraw ([click her to open it](https://github.com/gsmann997/Max3010Sensor/blob/master/documents/Pi2Case_default.cdr))file for the PI that our teacher prepared for us.
+For this week we had to design and prepare a case to secure our PI and sensor. To design my case I used [CorelDRAW Graphics Suite](https://www.coreldraw.com/en/?link=wm). After watching some tutorial on how to use the software I was able to modify the sample CorelDraw ([click here to open it](https://github.com/gsmann997/Max3010Sensor/blob/master/documents/Pi2Case_default.cdr))file for the PI that our teacher prepared for us.
 After I printed the case I noticed that my PCB and one side of the case where overlapping, so Vlad helped me to re-cut it.
 Unfortunately while I was putting it together I broke the plastic pins that are used to attach each part to the other, so I had to reprint it.
 Then again, while I was assembling the new case I accidentaly broke it again. So the next day, I noticed that I was breaking one because of designing issues. After fixing the CorelDraw file, finally I put everything together.
