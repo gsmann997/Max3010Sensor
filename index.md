@@ -13,10 +13,10 @@
 This file contains data for a project involving the Max3010x sensor
 ## Week 12
 This week was due the enclosure.
-For this week we had to design and prepare a case to secure our PI and sensor. To design my case I used [CorelDRAW Graphics Suite](https://www.coreldraw.com/en/?link=wm). After watching some tutorial on how to use the software I was able to modify the sample CorelDraw ([click here to open it](https://github.com/gsmann997/Max3010Sensor/blob/master/documents/Pi2Case_default.cdr))file for the PI that our teacher prepared for us.
-After I printed the case I noticed that my PCB and one side of the case where overlapping, so Vlad helped me to re-cut it.
-Unfortunately while I was putting it together I broke the plastic pins that are used to attach each part to the other, so I had to reprint it.
-Then again, while I was assembling the new case I accidentaly broke it again. So the next day, I noticed that I was breaking one because of designing issues. After fixing the CorelDraw file, finally I put everything together.
+For this week we had to design and prepare a case for our PI and sensor. To design my case I used [CorelDRAW Graphics Suite](https://www.coreldraw.com/en/?link=wm). After watching some tutorial on how to use the software I was able to modify the sample CorelDraw file ([click here to open it](https://github.com/gsmann997/Max3010Sensor/blob/master/documents/Pi2Case_default.cdr))  our teacher provided for the design.
+After I printed the case I noticed that my PCB was overlapping with one side of the case, so I re-cut it with Vlad's help.
+Unfortunately, while I was putting it together, I broke the plastic pins that are used to clip in each part of the case, so I had to reprint it again.
+Then while I was assembling the new case I accidentaly broke it again. So the next day, I noticed that I was breaking it because of small design issues. After fixing the CorelDraw file and printing it again, finally I put everything together.
 Picture of my CorelDraw:
 ![crd](https://user-images.githubusercontent.com/43187603/48814425-a8a97800-ed08-11e8-9e55-cb4080d570bd.PNG)
 <br><br>Final Design:
