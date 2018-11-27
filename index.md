@@ -11,6 +11,8 @@
 
 #### Max3010Sensor
 This file contains data for a project involving the Max3010x sensor
+## Week 13
+The presentation can be found [here](https://github.com/gsmann997/Max3010Sensor/blob/master/documents/MAX30105_presentation.pptx)
 ## Week 12
 This week was due the enclosure.
 For this week we had to design and prepare a case for our PI and sensor. To design my case I used [CorelDRAW Graphics Suite](https://www.coreldraw.com/en/?link=wm). After watching some tutorial on how to use the software I was able to modify the sample CorelDraw file ([click here to open it](https://github.com/gsmann997/Max3010Sensor/blob/master/documents/Pi2Case_default.cdr))  our teacher provided for the design.
