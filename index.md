@@ -72,7 +72,7 @@ For this milestone I am actually one week behind [schedule]( https://github.com/
 Moreover, I was able to ask the teacher a question regarding the implementation of the software intended to read/write from the sensor, as there are no library available for the integration of the MAX30105 with the raspberry pi; so the professor advised me to implement the code for the sensor.
 In conclusion the next step is being able to pull the raw data from the sensor.<br>
 ## Week 9
-This week I designed the PCB using Fritzing ([click here to download the fritzing file of the pcb](https://github.com/gsmann997/Max3010Sensor/blob/master/documents/myPcb.fzz)) and submitted Gerber of the designed PCB to the prototype lab for printing.
+This week I designed the PCB using Fritzing ([click here to download the fritzing file of the pcb](https://github.com/gsmann997/Max3010Sensor/blob/master/documents/myPcb.fzz)) and submitted [Gerber file](https://github.com/gsmann997/Max3010Sensor/blob/master/documents/pcb_gerber.zip) for the printing to the prototype lab.
 During the design of the PCB I spent a lot of time while trying to find a compatible connector/sensor that will have the same pins as the one I am using. However I was not sure about the distance between pins so with more research I was actually able to find my sensors fritzing part online. <br><br>
 ![pcb](https://user-images.githubusercontent.com/43187603/47763723-365cef00-dc98-11e8-8152-0d059c520169.png)
 # Progress Report:
