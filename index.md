@@ -1,13 +1,13 @@
 # Table of content
-1. [Week 2](#Week-2)
-2. [Week 3](#Week-3)
-3. <a href='#Week-4'> Week 4</a>
-4. [Week 5](#Week-5)
-5. [Week 7](#Week-7)
-6. [Week 8](#Week-8)
-7. [Week 9](#Week-9)
-8. [Week 10](#Week-10)
-9. [Week 11](#Week-11)
+1. [Week 2](#week-2)
+2. [Week 3](#week-3)
+3. <a href='#week-4'> Week 4</a>
+4. [Week 5](#week-5)
+5. [Week 7](#week-7)
+6. [Week 8](#week-8)
+7. [Week 9](#week-9)
+8. [Week 10](#week-10)
+9. [Week 11](#week-11)
 
 #### Max3010Sensor
 This file contains data for a project involving the Max3010x sensor
