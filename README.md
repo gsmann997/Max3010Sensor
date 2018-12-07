@@ -4,9 +4,9 @@
 2. [Parts Required](#parts-required)
 3. [Max30105 Electronic File Design](#Max30105-Electronic-File-Design)
 4. [Assembly](#assembly)
-5.[OS image and breadbording testing](#os-image-and-breadbording-testing)
-6.[Code Testing](#code-testing)
-7.[Case design and Assembly](#case-design-and-assembly)
+5. [OS image and breadbording testing](#os-image-and-breadbording-testing)
+6. [Code Testing](#code-testing)
+7. [Case design and Assembly](#case-design-and-assembly)
 
 # Introduction
 <img src='https://user-images.githubusercontent.com/43187603/48815301-07242580-ed0c-11e8-836c-ad78ff526679.jpg' height=300 width=450><
