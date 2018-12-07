@@ -10,6 +10,6 @@
 8.[Case design and Assembly](#case-design-and-assembly)
 
 # Introduction
-![img-20181120-wa0004](https://user-images.githubusercontent.com/43187603/48815301-07242580-ed0c-11e8-836c-ad78ff526679.jpg)
+![img-20181120-wa0004](https://user-images.githubusercontent.com/43187603/48815301-07242580-ed0c-11e8-836c-ad78ff526679.jpg =250x250)
 
 
