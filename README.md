@@ -24,11 +24,11 @@ The Parts required are (click on the product to be redicted where I bought the i
 <ul>
   <a href"https://www.canakit.com/raspberry-pi-3-model-b-plus-ultimate-kit.html"><li>Raspberry Pi</li></a>
   <a href"https://www.amazon.ca/Sandisk-Ultra-Micro-UHS-I-Adapter/dp/B073K14CVB/ref=sr_1_4?s=electronics&ie=UTF8&qid=1537837988&sr=1-4&keywords=micro%2Bsd%2Bcard%2B16gb&th=1"><li>Sd card (minimum 8GB)</li></a>
- <a href"https://www.sparkfun.com/products/14045"> <li>Max30105</li></a>
- <a href"https://www.amazon.ca/Haobase-120pcs-Multicolored-Female-Breadboard/dp/B01DLKLL6C/ref=sr_1_1?ie=UTF8&qid=1537837802&sr=8-1&keywords=jumper+wires+male+to+female
+ <a href="https://www.sparkfun.com/products/14045"> <li>Max30105</li></a>
+ <a href="https://www.amazon.ca/Haobase-120pcs-Multicolored-Female-Breadboard/dp/B01DLKLL6C/ref=sr_1_1?ie=UTF8&qid=1537837802&sr=8-1&keywords=jumper+wires+male+to+female
 "> <li>Male to female wires</li></a>
  <a> <li>PCB (My PCB was printed by the <a href="http://munro.humber.ca/~mdrk0011/">prototype lab at Humber College</a> so feel free to use the method more convenient to you)</li> </a>
-  <li><a href"https://www.digikey.ca/products/en?keywords=SAM9289-ND">5 Header</a> <a href"https://www.digikey.ca/product-detail/en/sullins-connector-solutions/PPTC051LFBN-RC/S6103-ND/807239">& 6 pin header</a></li>
+  <li><a href="https://www.digikey.ca/products/en?keywords=SAM9289-ND">5 Header</a> <a href="https://www.digikey.ca/product-detail/en/sullins-connector-solutions/PPTC051LFBN-RC/S6103-ND/807239">& 6 pin header</a></li>
   
 
   
