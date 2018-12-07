@@ -7,7 +7,7 @@
 5. [Assembly](#Assembly)
 6.[OS image and breadbording testing](#os-image-and-breadbording-testing)
 7.[Code Testing](#code-testing)
-8.[Case design and Assembly](#case-design and assembly)
+8.[Case design and Assembly](#case-design-and-assembly)
 
 # Introduction
 
