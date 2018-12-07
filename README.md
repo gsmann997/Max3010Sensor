@@ -2,12 +2,11 @@
 # Table of content
 1. [Introduction](#introdution)
 2. [Parts Required](#parts-required)
-3. [Parts Required](#parts-required)
-4. [Max30105 Electronic File Design](#Max30105-Electronic-File-Design)
-5. [Assembly](#assembly)
-6.[OS image and breadbording testing](#os-image-and-breadbording-testing)
-7.[Code Testing](#code-testing)
-8.[Case design and Assembly](#case-design-and-assembly)
+3. [Max30105 Electronic File Design](#Max30105-Electronic-File-Design)
+4. [Assembly](#assembly)
+5.[OS image and breadbording testing](#os-image-and-breadbording-testing)
+6.[Code Testing](#code-testing)
+7.[Case design and Assembly](#case-design-and-assembly)
 
 # Introduction
 <img src='https://user-images.githubusercontent.com/43187603/48815301-07242580-ed0c-11e8-836c-ad78ff526679.jpg' height=300 width=450><
