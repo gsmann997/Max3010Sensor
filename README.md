@@ -10,6 +10,7 @@
 8.[Case design and Assembly](#case-design-and-assembly)
 
 # Introduction
-<img src='https://user-images.githubusercontent.com/43187603/48815301-07242580-ed0c-11e8-836c-ad78ff526679.jpg' height=300 width=450>
+<div style=" vertical-align:middle; text-align:center"">
+<img src='https://user-images.githubusercontent.com/43187603/48815301-07242580-ed0c-11e8-836c-ad78ff526679.jpg' height=300 width=450></div>
 
 
