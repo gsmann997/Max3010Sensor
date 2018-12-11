@@ -29,6 +29,8 @@ The Parts required are (click on the product to be redicted where I bought the i
  <a> <li>PCB (my PCB was printed by the <a href="http://munro.humber.ca/~mdrk0011/">prototype lab at Humber College</a> so feel free to use the method more convenient to you)</li> </a>
   <li><a href="https://www.digikey.ca/products/en?keywords=SAM9289-ND">5 Header</a> <a href="https://www.digikey.ca/product-detail/en/sullins-connector-solutions/PPTC051LFBN-RC/S6103-ND/807239">& 6 pin header</a></li>
   
+ I spent around 119$ on the parts (<a href="https://github.com/gsmann997/Max3010Sensor/blob/master/documents/budget.xlsx">click here to download my budget</a>). Moreover, consider that it will take around 3/4 weeks to receive the parts, so please take extra time to order and receive the parts.
+  
 
   
 </ul>
