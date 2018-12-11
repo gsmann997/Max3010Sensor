@@ -8,8 +8,8 @@
 7. [week 9](#week-9)
 8. [week 10](#week-10)
 9. [week 11](#week-11)
-9. [week 12](#week-12)
-9. [week 13](#week-13)
+10. [week 12](#week-12)
+11. [week 13](#week-13)
 
 #### Max3010Sensor
 This file contains data for a project involving the Max3010x sensor
