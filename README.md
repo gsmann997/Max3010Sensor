@@ -54,4 +54,4 @@ Once the wiring is done, turn on the pi, enable I2C from options.
 Furthermore, open the command terminal and run the following command: <b> i2cdetect -y -1</b>
 On the screen you should be able to see the address of your sensor, this is a quick test to check if all the wiring has been done properly.
 Example of screen:
-<img src="https://user-images.githubusercontent.com/43187603/48308589-9d9b5e80-e536-11e8-8047-f5b777083972.PNG" heigth="300" width=300>
+<div><img src="https://user-images.githubusercontent.com/43187603/48308589-9d9b5e80-e536-11e8-8047-f5b777083972.PNG" heigth="300" width=300></div>
