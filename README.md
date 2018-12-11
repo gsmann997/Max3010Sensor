@@ -49,3 +49,9 @@ Follow the wiring diagram below of the wiring:
 <img src="https://user-images.githubusercontent.com/43187603/47398817-dac4bb80-d703-11e8-8afc-d6c36e0f06ec.png" height="400" width="400"></div>
 Your breadbord should look like the image below:
 <img src="https://user-images.githubusercontent.com/43187603/47397450-5111ef80-d6fd-11e8-8374-09f96998d36e.jpg" height="450" width="500">
+
+Once the wiring is done, turn on the pi, enable I2C from options.
+Furthermore, open the command terminal and run the following command: <b> i2cdetect -y -1</b>
+On the screen you should be able to see the address of your sensor, this is a quick test to check if all the wiring has been done properly.
+Example of screen:
+<img src="https://user-images.githubusercontent.com/43187603/48308589-9d9b5e80-e536-11e8-8047-f5b777083972.PNG" heigth="300" width=300>
