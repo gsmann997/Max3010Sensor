@@ -4,10 +4,11 @@
 2. [Parts Required](#parts-required)
 3. [Time Commitment](#time-commitment)
 4. [OS image and sensor testing](#os-image-and-sensor-testing)
-5. [Max30105 Electronic File Design](#Max30105-Electronic-File-Design)
-6. [Assembly](#assembly)
-7. [Code Testing](#code-testing)
-8. [Case design and Assembly](#case-design-and-assembly)
+5. [Testing and Pins Soldering](#testing-and-pins-soldering)
+6. [Max30105 Electronic File Design](#Max30105-Electronic-File-Design)
+7. [Assembly](#assembly)
+8. [Code Testing](#code-testing)
+9. [Case design and Assembly](#case-design-and-assembly)
 
 # Introduction
 <img src='https://user-images.githubusercontent.com/43187603/48815301-07242580-ed0c-11e8-836c-ad78ff526679.jpg' height=300 width=450><
@@ -43,6 +44,9 @@ Once you received the Raspberry Pi and micro sd, you can proceed to install an O
 To install the OS in the PI, reference to <a href="https://github.com/six0four/StudentSenseHat/blob/master/README.md#student-raspberry-pi-image-creation-and-test-code" >this link </a>, which cointains a detailed guide on how to install an OS in the Pi and has been given to us by our professor.
 The second step, after the installion of the OS, is to make the PI accessible either via VNC (<a href="">click here to download vnc for Windows</a>). Activating VNC on the PI does not require much time, I used a guide on 
 <a href="https://www.lynda.com/Raspberry-Pi-tutorials/Raspberry-Pi-Essential-Training/667376-2.html">lynda.com</a>, but if you do not have access to lynda.com use any resource.
+# Testing and Pins Soldering
+Before testing the sensor you need to solder the pins to the sensors. Moreover, before starting any soldering watch <a href="https://www.youtube.com/watch?v=BLfXXRfRIzY&list=PLQ32vZrF5U2lFOJTtZDytBWBYVLNp4RYz"> soldering videos </a> and <a href="https://safety.eng.cam.ac.uk/safe-working/copy_of_soldering-safety"> read risk assessments and chemical safety information</a>
+Once you are reading for the soldering, solder the sensor with the pins.
 The last step is breadbording and testing the connection/sensor and if every part is working fine.
 Follow the wiring diagram below of the wiring:
 <div>
@@ -56,4 +60,6 @@ On the screen you should be able to see the address of your sensor, this is a qu
 Example of screen:
 <div><img src="https://user-images.githubusercontent.com/43187603/48308589-9d9b5e80-e536-11e8-8047-f5b777083972.PNG" heigth="300" width=300></div>
 # Max30105 Electronic File Design
-
+The final project expects the sensor and the PI to be connected to each other through a PCB. 
+I designed my PCB using <a href="http://fritzing.org/download/">fritzing </a>, here you can find <a href="https://github.com/gsmann997/Max3010Sensor/blob/master/documents/myPcb.fzz">my fritzing design</a> and <a href="https://github.com/gsmann997/Max3010Sensor/blob/master/documents/pcb_gerber.zip" >here you can find the gerber file of the PCB</a><br>This is the PCB diagram:
+<img src="https://user-images.githubusercontent.com/43187603/47763723-365cef00-dc98-11e8-8152-0d059c520169.png">
