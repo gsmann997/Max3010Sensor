@@ -3,11 +3,11 @@
 1. [Introduction](#introdution)
 2. [Parts Required](#parts-required)
 3. [Time Commitment](#time-commitment)
-3. [Max30105 Electronic File Design](#Max30105-Electronic-File-Design)
-4. [Assembly](#assembly)
-5. [OS image and breadbording testing](#os-image-and-breadbording-testing)
-6. [Code Testing](#code-testing)
-7. [Case design and Assembly](#case-design-and-assembly)
+4. [OS image and sensor testing](#os-image-and-sensor-testing)
+5. [Max30105 Electronic File Design](#Max30105-Electronic-File-Design)
+6. [Assembly](#assembly)
+7. [Code Testing](#code-testing)
+8. [Case design and Assembly](#case-design-and-assembly)
 
 # Introduction
 <img src='https://user-images.githubusercontent.com/43187603/48815301-07242580-ed0c-11e8-836c-ad78ff526679.jpg' height=300 width=450><
@@ -37,3 +37,9 @@ The Parts required are (click on the product to be redicted where I bought the i
   Once you receive that parts (included the PCB), it should take you around 5 hour to do the testing, mechanical assembly and power up.
   Please reference to my <a href= "https://github.com/gsmann997/Max3010Sensor/blob/master/documents/schedule.pdf">time commitment</a> and how I divided the work through 4 months. 
   However, it should not take this much time as I am supplying all required material and a detail guide to follow.
+  
+  # OS image and sensor testing
+Once you received the Raspberry Pi and micro sd, you can proceed to install an OS in the PI.
+To install the OS in the PI, reference to <a href="https://github.com/six0four/StudentSenseHat/blob/master/README.md#student-raspberry-pi-image-creation-and-test-code" >this link </a>, which cointains a detailed guide on how to install an OS in the Pi and has been given to us by our professor.
+The second step, after the installion of the OS, is to make the PI accessible either via VNC (<a href="">click here to download vnc for Windows</a>). Activating VNC on the PI does not require much time, I used a guide on 
+<a href="https://www.lynda.com/Raspberry-Pi-tutorials/Raspberry-Pi-Essential-Training/667376-2.html">lynda.com</a>, but if you do not have access to lynda.com use any resource.
