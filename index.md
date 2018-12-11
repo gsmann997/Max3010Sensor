@@ -8,6 +8,8 @@
 7. [week 9](#week-9)
 8. [week 10](#week-10)
 9. [week 11](#week-11)
+9. [week 12](#week-12)
+9. [week 13](#week-13)
 
 #### Max3010Sensor
 This file contains data for a project involving the Max3010x sensor
@@ -91,7 +93,8 @@ Before doing the breadboarding I prepared a fritzing diagram (my sensor was not 
 ![drawing](https://user-images.githubusercontent.com/43187603/47398817-dac4bb80-d703-11e8-8afc-d6c36e0f06ec.png)<br>
 ![drawing_scheme](https://user-images.githubusercontent.com/43187603/47398829-e57f5080-d703-11e8-8635-d47ca832b91e.png)<br>
 ## Week 7
-This week we did the soldering.
+This week we did the soldering. Unfortunately due to shipping issue I could not solder the pins in class. 
+However, I received the part the next day and got it soldered in the prototype lab with the help of Vlad.
 ![img_20181022_105531](https://user-images.githubusercontent.com/43187603/47303578-49195900-d5f2-11e8-87ba-8dbeb3edad9a.jpg)<br>
 Pseudo-code was also written to get an idea of what code we will have to write for the power up
 ![pseudo-code](https://user-images.githubusercontent.com/43187603/47397204-32f7bf80-d6fc-11e8-9fbd-ab3781bbbd41.PNG)
