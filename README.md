@@ -5,7 +5,7 @@
 3. [Time Commitment](#time-commitment)
 4. [OS image and sensor testing](#os-image-and-sensor-testing)
 5. [Testing and Pins Soldering](#testing-and-pins-soldering)
-6. [Max30105 Electronic File Design](#Max30105-Electronic-File-Design)
+6. [Max30105 Electronic File Design](#max30105-electronic-file-design)
 7. [Assembly](#assembly)
 8. [Code Testing](#code-testing)
 9. [Case design and Assembly](#case-design-and-assembly)
@@ -65,4 +65,14 @@ I designed my PCB using <a href="http://fritzing.org/download/">fritzing </a>, h
 <div><img src="https://user-images.githubusercontent.com/43187603/47763723-365cef00-dc98-11e8-8152-0d059c520169.png" heigth="250" width="250"></div>
 Once you get the PCB, you can solder the pins header to the PCB.
 This is the final result:
-<img src="https://user-images.githubusercontent.com/43187603/48309051-10103c80-e53f-11e8-970f-8a85809c0ed6.png" heigth="300" width="300">
+<div><img src="https://user-images.githubusercontent.com/43187603/48309051-10103c80-e53f-11e8-970f-8a85809c0ed6.png" heigth="300" width="300"></div>
+# Assembly
+Once you receive the PCB, assemble everything:
+<img src="https://user-images.githubusercontent.com/43187603/48309070-69786b80-e53f-11e8-90d2-b840e2975a57.jpg"?  heigth="300" width="300">
+Then, test it again as you did with the breadboarding [click here to see the steps again](#testing-and-pins-soldering). 
+# Code Testing
+Until now, we have focused only on the hardware part, but we have also to work on the software part.
+For the coding part, I used the MAX30102 libraries as I did need only the heart beat and not the other functionality of the sensor.
+I have the code uploaded on my github and I am also posting the source code from where I initially retrived it.
+([click here to retrive the code](https://github.com/vrano714/max30102-tutorial-raspberrypi) or [click here for the source code on my github](https://github.com/gsmann997/Max3010Sensor/tree/master/files))
+Once you upload the code on your raspberry pi, run the max30102.py file with python3 compile option to execute the file and get the RED and IR LED.
