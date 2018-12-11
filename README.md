@@ -43,3 +43,8 @@ Once you received the Raspberry Pi and micro sd, you can proceed to install an O
 To install the OS in the PI, reference to <a href="https://github.com/six0four/StudentSenseHat/blob/master/README.md#student-raspberry-pi-image-creation-and-test-code" >this link </a>, which cointains a detailed guide on how to install an OS in the Pi and has been given to us by our professor.
 The second step, after the installion of the OS, is to make the PI accessible either via VNC (<a href="">click here to download vnc for Windows</a>). Activating VNC on the PI does not require much time, I used a guide on 
 <a href="https://www.lynda.com/Raspberry-Pi-tutorials/Raspberry-Pi-Essential-Training/667376-2.html">lynda.com</a>, but if you do not have access to lynda.com use any resource.
+The last step is breadbording and testing the connection/sensor and if every part is working fine.
+Follow the wiring diagram below of the wiring:
+<img src="https://user-images.githubusercontent.com/43187603/46379957-867f6c00-c66e-11e8-8fb0-836faa98e8e6.jpg" height="400" width="400">
+Your breadbord should look like the image below:
+<img src="https://user-images.githubusercontent.com/43187603/47397450-5111ef80-d6fd-11e8-8374-09f96998d36e.jpg" height="350" width="300"
