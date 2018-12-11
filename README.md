@@ -34,4 +34,6 @@ The Parts required are (click on the product to be redicted where I bought the i
   
   # Time Commitment
   
-  Once you receive that parts (included the PCB), it should take you around 5 hour to do the testing, assembly, and ma
+  Once you receive that parts (included the PCB), it should take you around 5 hour to do the testing, mechanical assembly and power up.
+  Please reference to my <a href= "https://github.com/gsmann997/Max3010Sensor/blob/master/documents/schedule.pdf">time commitment</a> and how I divided the work through 4 months. 
+  However, it should not take this much time as I am supplying all required material and a detail guide to follow.
