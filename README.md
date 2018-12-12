@@ -101,10 +101,10 @@ Once you get the case the only step left is assembling the case.
 The final result is:
 <img src="https://user-images.githubusercontent.com/43187603/48815301-07242580-ed0c-11e8-836c-ad78ff526679.jpg" heigth="300" width="300">
 # Testing
-To test if everything works, you can run the code on the PI and verify if the result is accectable or there are some errors in the output.
-As if we try to move this project in production environment we will need to order everything in bulk which will make everything cheaper, specially the shipping cost. 
+To test if everything works, you can run the code on the PI and verify if the result is acceptable or there are some errors in the output.
+As if we try to move this project in a production environment we will need to order everything in bulk which will make everything cheaper, specially the shipping cost. 
 To make the production faster we can use one working image and clone it in the other new projects. Moreover, we can check regularly after a number of produced device if the image is working fine and has not been corrupted.
-We can automate the soldering and assemblying process. Another improvement could be changing the design of the case and make it easier to assemble. Regarding the case it might be a better option to get it done by an external supplier instead of buying the raw plastics and using a laser cut to make the case out those plastics.
+We can automate the soldering and assemblying process. Another improvement could be changing the design of the case and make it easier to assemble. Regarding the case it might be a better option to get it done by an external supplier, instead of buying the raw plastics and using the laser cut to make it.
 
 
 
