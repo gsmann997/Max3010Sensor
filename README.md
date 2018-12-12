@@ -13,7 +13,9 @@
 
 
 # Introduction
+<div>
 <img src="https://user-images.githubusercontent.com/43187603/48815301-07242580-ed0c-11e8-836c-ad78ff526679.jpg" heigth=300 width=450>
+</div>
 This project is based on the MAX30105, which is a very powerful sensor (it can sense the distance, heart rate, particle in the air and even the blinking of an eye)
 For this particular project I decided to implement only the heart rate functionality.
 It is important that you read the <a href="https://cdn.sparkfun.com/assets/learn_tutorials/5/7/7/MAX30105_3.pdf">datasheet</a> of the sensor before any different connection than the one shown below are done.
