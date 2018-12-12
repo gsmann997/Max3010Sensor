@@ -67,9 +67,11 @@ Example of screen:
 # Max30105 Electronic File Design
 The final project expects the sensor and the PI to be connected to each other through a PCB. 
 I designed my PCB using <a href="http://fritzing.org/download/">fritzing </a>, here you can find <a href="https://github.com/gsmann997/Max3010Sensor/blob/master/documents/myPcb.fzz">my fritzing design</a> and <a href="https://github.com/gsmann997/Max3010Sensor/blob/master/documents/pcb_gerber.zip" >here you can find the gerber file of the PCB</a><br>This is the PCB diagram:
-<!--
-<div><img src="https://user-images.githubusercontent.com/43187603/47763723-365cef00-dc98-11e8-8152-0d059c520169.png" heigth=250 width=250></div>
--->
+
+<div>
+<img src="https://user-images.githubusercontent.com/43187603/47763723-365cef00-dc98-11e8-8152-0d059c520169.png" heigth=250 width=250>
+</div>
+
 Once you get the PCB, you can solder the pins header to the PCB.
 This is the final result:
 
