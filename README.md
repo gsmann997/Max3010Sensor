@@ -60,11 +60,3 @@ On the screen you should be able to see the address of your sensor, this is a qu
 Example of screen:
 <div><img src="https://user-images.githubusercontent.com/43187603/48308589-9d9b5e80-e536-11e8-8047-f5b777083972.PNG" heigth=300 width=300></div>
 # Max30105 Electronic File Design
-The final project expects the sensor and the PI to be connected to each other through a PCB. 
-I designed my PCB using <a href="http://fritzing.org/download/">fritzing </a>, here you can find <a href="https://github.com/gsmann997/Max3010Sensor/blob/master/documents/myPcb.fzz">my fritzing design</a> and <a href="https://github.com/gsmann997/Max3010Sensor/blob/master/documents/pcb_gerber.zip" >here you can find the gerber file of the PCB</a><br>This is the PCB diagram:
-<div><img src="https://user-images.githubusercontent.com/43187603/47763723-365cef00-dc98-11e8-8152-0d059c520169.png" heigth="250" width="250"></div>
-Once you get the PCB, you can solder the pins header to the PCB.
-This is the final result:
-<div>
- <img src="https://user-images.githubusercontent.com/43187603/48309051-10103c80-e53f-11e8-970f-8a85809c0ed6.png" heigth="300" width="300">
-</div>
