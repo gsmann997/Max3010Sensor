@@ -76,3 +76,11 @@ For the coding part, I used the MAX30102 libraries as I did need only the heart 
 I have the code uploaded on my github and I am also posting the source code from where I initially retrived it.(
 <a href="https://github.com/vrano714/max30102-tutorial-raspberrypi">click here to retrive the code</a> or <a href="https://github.com/gsmann997/Max3010Sensor/tree/master/files">click here for the source code on my github)</a>
 Once you upload the code on your raspberry pi, run the max30102.py file with python3 compile option to execute the file and get the RED and IR LED.
+# Case design and Assembly
+Once the software side is complete the only step remaining is to make and assemble the case.
+For the design of the case I used  [CorelDRAW Graphics Suite](https://www.coreldraw.com/en/?link=wm) and you can retrive the design [from here](https://github.com/gsmann997/Max3010Sensor/blob/master/documents/Pi2Case_default.cdr).<br>
+Picture of the CorelDraw:<br> <img src="https://user-images.githubusercontent.com/43187603/48814425-a8a97800-ed08-11e8-9e55-cb4080d570bd.PNG" heigth="250" width="250">
+Once you get the case the only step left is assembling the case.
+The final result is:
+<img src="https://user-images.githubusercontent.com/43187603/48815301-07242580-ed0c-11e8-836c-ad78ff526679.jpg" heigth="300" width="300">
+
