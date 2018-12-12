@@ -69,7 +69,7 @@ This is the final result:
 # Assembly
 Once you receive the PCB, assemble everything:
 <img src="https://user-images.githubusercontent.com/43187603/48309070-69786b80-e53f-11e8-90d2-b840e2975a57.jpg"  heigth="300" width="300">
-Then, test it again as you did with the breadboarding [click here to see the steps again](#testing-and-pins-soldering).
+Then, test it again as you did with the breadboarding <a href="#testing-and-pins-soldering">click here to see the steps again</a>.
 # Code Testing
 Until now, we have focused only on the hardware part, but we have also to work on the software part.
 For the coding part, I used the MAX30102 libraries as I did need only the heart beat and not the other functionality of the sensor.
