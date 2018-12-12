@@ -10,10 +10,12 @@
 8. [Code Testing](#code-testing)
 9. [Case design and Assembly](#case-design-and-assembly)
 10. [Testing](#testing)
-
+<!--
 <p>
 <img src="https://user-images.githubusercontent.com/43187603/48815301-07242580-ed0c-11e8-836c-ad78ff526679.jpg" heigth=300 width=450>
-<p>
+<p> -->
+  ![img-20181120-wa0004](https://user-images.githubusercontent.com/43187603/48815301-07242580-ed0c-11e8-836c-ad78ff526679.jpg)
+
 # Introduction
 
 
