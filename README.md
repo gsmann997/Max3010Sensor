@@ -52,10 +52,11 @@ The last step is breadbording and testing the connection/sensor and if every par
 Follow the wiring diagram below of the wiring:
 <div>
 <img src="https://user-images.githubusercontent.com/43187603/47398817-dac4bb80-d703-11e8-8afc-d6c36e0f06ec.png" height="400" width="400">
-</div><!--
+</div>
 Your breadbord should look like the image below:
-<img src="https://user-images.githubusercontent.com/43187603/47397450-5111ef80-d6fd-11e8-8374-09f96998d36e.jpg" height="450" width="500">
--->
+<div>
+<img src="https://user-images.githubusercontent.com/43187603/47397450-5111ef80-d6fd-11e8-8374-09f96998d36e.jpg" height="400" width="400">
+</div>
 
 Once the wiring is done, turn on the pi, enable I2C from options.
 Furthermore, open the command terminal and run the following command: <b> i2cdetect -y -1</b><br>
