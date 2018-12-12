@@ -82,7 +82,8 @@ This is the final result:
 # Assembly
 Once you receive the PCB, assemble everything:
 <div>
-<img src="https://user-images.githubusercontent.com/43187603/48309070-69786b80-e53f-11e8-90d2-b840e2975a57.jpg"  heigth="300" width="300"></div>
+<img src="https://user-images.githubusercontent.com/43187603/48309070-69786b80-e53f-11e8-90d2-b840e2975a57.jpg"  heigth=300 width=300>
+</div>
 Then, test it again as you did with the breadboarding <a href="#testing-and-pins-soldering">click here to see the steps again</a>.
 # Code Testing
 Until now, we have focused only on the hardware part, but we have also to work on the software part.
