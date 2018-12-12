@@ -29,7 +29,7 @@ The Parts required are (click on the product to be redicted where I bought the i
 <li> <a href="https://www.amazon.ca/Haobase-120pcs-Multicolored-Female-Breadboard/dp/B01DLKLL6C/ref=sr_1_1?ie=UTF8&qid=1537837802&sr=8-1&keywords=jumper+wires+male+to+female
 "> Male to female wires</a></li>
   <li>PCB (my PCB was printed by the <a href="http://munro.humber.ca/~mdrk0011/">prototype lab at Humber College</a> so feel free to use the method more convenient to you)</li>
-  <li><a href="https://www.digikey.ca/products/en?keywords=SAM9289-ND">5 Header</a> <a href="https://www.digikey.ca/product-detail/en/sullins-connector-solutions/PPTC051LFBN-RC/S6103-ND/807239">& 6 pin header</a></li>
+  <li><a href="https://www.digikey.ca/products/en?keywords=SAM9289-ND">5 Header</a> <a href="https://www.digikey.ca/product-detail/en/sullins-connector-solutions/PPTC051LFBN-RC/S6103-ND/807239">and 6 pin header</a></li>
 </ul>
  I spent around 119$ on the parts (<a href="https://github.com/gsmann997/Max3010Sensor/blob/master/documents/budget.xlsx">click here to download my budget</a>). Moreover, consider that it will take around 3/4 weeks to receive the parts, so please take extra time to order and receive the parts.
   
@@ -51,11 +51,11 @@ Once you are reading for the soldering, solder the sensor with the pins.
 The last step is breadbording and testing the connection/sensor and if every part is working fine.
 Follow the wiring diagram below of the wiring:
 <div>
-<img src="https://user-images.githubusercontent.com/43187603/47398817-dac4bb80-d703-11e8-8afc-d6c36e0f06ec.png" height="400" width="400">
+<img src="https://user-images.githubusercontent.com/43187603/47398817-dac4bb80-d703-11e8-8afc-d6c36e0f06ec.png" height=400 width=400>
 </div>
 Your breadbord should look like the image below:
 <div>
-<img src="https://user-images.githubusercontent.com/43187603/47397450-5111ef80-d6fd-11e8-8374-09f96998d36e.jpg" height="400" width="400">
+<img src="https://user-images.githubusercontent.com/43187603/47397450-5111ef80-d6fd-11e8-8374-09f96998d36e.jpg" height=400 width=400>
 </div>
 
 Once the wiring is done, turn on the pi, enable I2C from options.
