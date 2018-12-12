@@ -11,7 +11,7 @@
 9. [Case design and Assembly](#case-design-and-assembly)
 
 # Introduction
-<img src='https://user-images.githubusercontent.com/43187603/48815301-07242580-ed0c-11e8-836c-ad78ff526679.jpg' height=300 width=450><
+<img src='https://user-images.githubusercontent.com/43187603/48815301-07242580-ed0c-11e8-836c-ad78ff526679.jpg' height=300 width=450>
 <!-- remember to center image -->
 This project is based on the MAX30105, which is a very powerful sensor (it can sense the distance, heart rate, particle in the air and even the blinking of an eye)
 For this particular project I decided to implement only the heart rate functionality.
