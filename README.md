@@ -70,8 +70,8 @@ I designed my PCB using <a href="http://fritzing.org/download/">fritzing </a>, h
 <div><img src="https://user-images.githubusercontent.com/43187603/47763723-365cef00-dc98-11e8-8152-0d059c520169.png" heigth="250" width="250"></div>
 Once you get the PCB, you can solder the pins header to the PCB.
 This is the final result:
-<div>
- <img src="https://user-images.githubusercontent.com/43187603/48309051-10103c80-e53f-11e8-970f-8a85809c0ed6.png" heigth="300" width="300">
+<div><!--
+ <img src="https://user-images.githubusercontent.com/43187603/48309051-10103c80-e53f-11e8-970f-8a85809c0ed6.png" heigth="300" width="300"> -->
 </div>
 # Assembly
 Once you receive the PCB, assemble everything:
