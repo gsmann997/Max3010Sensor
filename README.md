@@ -73,6 +73,6 @@ Then, test it again as you did with the breadboarding [click here to see the ste
 # Code Testing
 Until now, we have focused only on the hardware part, but we have also to work on the software part.
 For the coding part, I used the MAX30102 libraries as I did need only the heart beat and not the other functionality of the sensor.
-I have the code uploaded on my github and I am also posting the source code from where I initially retrived it.
-([click here to retrive the code](https://github.com/vrano714/max30102-tutorial-raspberrypi) or [click here for the source code on my github](https://github.com/gsmann997/Max3010Sensor/tree/master/files))
+I have the code uploaded on my github and I am also posting the source code from where I initially retrived it.(
+<a href="https://github.com/vrano714/max30102-tutorial-raspberrypi">click here to retrive the code</a> or <a href="https://github.com/gsmann997/Max3010Sensor/tree/master/files">click here for the source code on my github)</a>
 Once you upload the code on your raspberry pi, run the max30102.py file with python3 compile option to execute the file and get the RED and IR LED.
