@@ -45,12 +45,12 @@ To install the OS in the PI, reference to <a href="https://github.com/six0four/S
 The second step, after the installion of the OS, is to make the PI accessible either via VNC (<a href="">click here to download vnc for Windows</a>). Activating VNC on the PI does not require much time, I used a guide on 
 <a href="https://www.lynda.com/Raspberry-Pi-tutorials/Raspberry-Pi-Essential-Training/667376-2.html">lynda.com</a>, but if you do not have access to lynda.com use any resource.
 # Testing and Pins Soldering
-<!--
+
 Before testing the sensor you need to solder the pins to the sensors. Moreover, before starting any soldering watch <a href="https://www.youtube.com/watch?v=BLfXXRfRIzY&list=PLQ32vZrF5U2lFOJTtZDytBWBYVLNp4RYz"> soldering videos </a> and <a href="https://safety.eng.cam.ac.uk/safe-working/copy_of_soldering-safety"> read risk assessments and chemical safety information</a>
 Once you are reading for the soldering, solder the sensor with the pins.
 The last step is breadbording and testing the connection/sensor and if every part is working fine.
 Follow the wiring diagram below of the wiring:
-<div>
+<!--<div>
 <img src="https://user-images.githubusercontent.com/43187603/47398817-dac4bb80-d703-11e8-8afc-d6c36e0f06ec.png" height="400" width="400">
 </div>
 Your breadbord should look like the image below:
