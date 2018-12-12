@@ -18,6 +18,7 @@
 
 # Introduction
 
+![diagram](https://user-images.githubusercontent.com/43187603/49849574-2f9dbd80-fda8-11e8-89f4-48afa505d034.png)
 
 This project is based on the MAX30105, which is a very powerful sensor (it can sense the distance, heart rate, particle in the air and even the blinking of an eye)
 For this particular project I decided to implement only the heart rate functionality.
