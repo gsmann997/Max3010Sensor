@@ -50,9 +50,9 @@ Before testing the sensor you need to solder the pins to the sensors. Moreover, 
 Once you are reading for the soldering, solder the sensor with the pins.
 The last step is breadbording and testing the connection/sensor and if every part is working fine.
 Follow the wiring diagram below of the wiring:
-<!--<div>
+<div>
 <img src="https://user-images.githubusercontent.com/43187603/47398817-dac4bb80-d703-11e8-8afc-d6c36e0f06ec.png" height="400" width="400">
-</div>
+</div><!--
 Your breadbord should look like the image below:
 <img src="https://user-images.githubusercontent.com/43187603/47397450-5111ef80-d6fd-11e8-8374-09f96998d36e.jpg" height="450" width="500">
 -->
