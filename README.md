@@ -72,11 +72,11 @@ I designed my PCB using <a href="http://fritzing.org/download/">fritzing </a>, h
 -->
 Once you get the PCB, you can solder the pins header to the PCB.
 This is the final result:
-<!--
+
 <div>
  <img src="https://user-images.githubusercontent.com/43187603/48309051-10103c80-e53f-11e8-970f-8a85809c0ed6.png" heigth=300 width=300> 
 </div> 
--->
+
 # Assembly
 Once you receive the PCB, assemble everything:
 <div>
