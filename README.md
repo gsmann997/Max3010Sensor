@@ -58,5 +58,33 @@ Once the wiring is done, turn on the pi, enable I2C from options.
 Furthermore, open the command terminal and run the following command: <b> i2cdetect -y -1</b><br>
 On the screen you should be able to see the address of your sensor, this is a quick test to check if all the wiring has been done properly.
 Example of screen:
-<div><img src="https://user-images.githubusercontent.com/43187603/48308589-9d9b5e80-e536-11e8-8047-f5b777083972.PNG" heigth=300 width=300></div>
+<!-- <div><img src="https://user-images.githubusercontent.com/43187603/48308589-9d9b5e80-e536-11e8-8047-f5b777083972.PNG" heigth=300 width=300></div> -->
 # Max30105 Electronic File Design
+The final project expects the sensor and the PI to be connected to each other through a PCB. 
+I designed my PCB using <a href="http://fritzing.org/download/">fritzing </a>, here you can find <a href="https://github.com/gsmann997/Max3010Sensor/blob/master/documents/myPcb.fzz">my fritzing design</a> and <a href="https://github.com/gsmann997/Max3010Sensor/blob/master/documents/pcb_gerber.zip" >here you can find the gerber file of the PCB</a><br>This is the PCB diagram:
+<div><img src="https://user-images.githubusercontent.com/43187603/47763723-365cef00-dc98-11e8-8152-0d059c520169.png" heigth="250" width="250"></div>
+Once you get the PCB, you can solder the pins header to the PCB.
+This is the final result:
+<div>
+ <img src="https://user-images.githubusercontent.com/43187603/48309051-10103c80-e53f-11e8-970f-8a85809c0ed6.png" heigth="300" width="300">
+</div>
+# Assembly
+Once you receive the PCB, assemble everything:
+<img src="https://user-images.githubusercontent.com/43187603/48309070-69786b80-e53f-11e8-90d2-b840e2975a57.jpg"  heigth="300" width="300">
+Then, test it again as you did with the breadboarding <a href="#testing-and-pins-soldering">click here to see the steps again</a>.
+# Code Testing
+Until now, we have focused only on the hardware part, but we have also to work on the software part.
+For the coding part, I used the MAX30102 libraries as I did need only the heart beat and not the other functionality of the sensor.
+I have the code uploaded on my github and I am also posting the source code from where I initially retrived it.(
+<a href="https://github.com/vrano714/max30102-tutorial-raspberrypi">click here to retrive the code</a> or <a href="https://github.com/gsmann997/Max3010Sensor/tree/master/files">click here for the source code on my github</a>)
+Once you upload the code on your raspberry pi, run the max30102.py file with python3 compile option to execute the file and get the RED and IR LED.
+# Case design and Assembly
+Once the software side is complete the only step remaining is to make and assemble the case.
+For the design of the case I used  [CorelDRAW Graphics Suite](https://www.coreldraw.com/en/?link=wm) and you can retrive the design [from here](https://github.com/gsmann997/Max3010Sensor/blob/master/documents/Pi2Case_default.cdr).<br>
+Picture of the CorelDraw:<br> <img src="https://user-images.githubusercontent.com/43187603/48814425-a8a97800-ed08-11e8-9e55-cb4080d570bd.PNG" heigth="250" width="250">
+Once you get the case the only step left is assembling the case.
+The final result is:
+<img src="https://user-images.githubusercontent.com/43187603/48815301-07242580-ed0c-11e8-836c-ad78ff526679.jpg" heigth="300" width="300">
+
+
+
